@@ -1,0 +1,32 @@
+
+.header{
+	width: 70%;
+	height:60px;
+	background-color:gray;
+	overflow:hidden;
+	
+}
+.left{
+	float:left;
+	width:75%;
+}
+.right{
+	float:right;
+	width:25%;
+}
+.dashboard{
+	
+	width: 70%;
+	height:300px;
+	
+}
+.tabletitle{
+	
+	
+}
+body{
+	background-color:red;
+	
+}
+
+	

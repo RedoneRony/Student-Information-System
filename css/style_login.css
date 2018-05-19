@@ -1,0 +1,41 @@
+body{
+	margin: 0 auto;
+	background-image: url(image/bacground.jpg);
+	bacground-repeat: no-repeat;
+	background-size: 100% 720px;
+}
+
+.container{
+	width:500px;
+	height:400px;
+	text-align:center;
+	background-color: rgba(52, 73, 94, 0.4);
+	background-radius: 4px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+input[type="text"], input[type="password"] {
+    height:45px;
+	width:300px;	
+	font-size:18px;
+	margin-top:40px;
+	background-color: #fff;
+	padding-left:30px;
+	border:none;
+}
+.btn-login{
+	margin-top:20px;
+	padding: 15px 30px;
+	color: #fff;
+	border:none;
+	border-radius: 4px;
+	background-color: #2ECC71;
+	border-bottom: 4px solid #27AE60;
+}
+.heade{
+	width:100%;
+	height:45px;
+	color:black;
+	background-color: rgba(52, 75, 95, 0.4);
+}
